@@ -1,0 +1,6 @@
+{
+    "status":"error",
+    "status_code":"400",
+    "message":"Bad request",
+    "result":["There was an error with the request you made, either arguments were needed or they were incorrect."]
+}
